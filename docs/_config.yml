@@ -1,8 +1,2 @@
-title: Web javabrno.sevecek.net
+title: Java-Web-Brno-Redirect
 markdown: kramdown
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: null
